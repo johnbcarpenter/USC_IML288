@@ -6,7 +6,7 @@ i'll keep updating throughout the semester.
 [visual complexity](http://www.visualcomplexity.com/vc/)  
   
 ## websites/design firms/studios:  
-[aaron koblin](http://www.aaronkoblin.com/) + [WITHIN](https://www.with.in/) . 
+[aaron koblin](http://www.aaronkoblin.com/) + [WITHIN](https://www.with.in/)   
 [cacheflowe](http://cacheflowe.com)  
 [casey reas](http://reas.com)  
 [design I/O](http://design-io.com)  
