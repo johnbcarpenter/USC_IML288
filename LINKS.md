@@ -1,4 +1,4 @@
-this list is a work in progress for references that we discuss in class.  
+this list is a work in progress for _creative coding_ references that we discuss in class.  
 i'll keep updating throughout the semester.
 
 ## blogs:
