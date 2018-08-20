@@ -1,4 +1,4 @@
-# USC_IML288 -- WEEK 01
+# WEEK 01
 Critical Thinking and Procedural Media is an introductory computer programming course that explores the use of code to generate digital art and design works.  If you're less familiar with programming (or totally new to it), don't worry — this class starts with the basics and builds up to more complex ideas (like object-oriented programming). If you've programmed before, great, we'll take what you know and look at the potentials of computational media to define new aesthetics, modes of representation and structures of communication. 
 
 This course is focused on becoming procedurally literate (being able to think like a creative coder), and is less concerned about learning a specific programming language. That said, due to its accessibility and active community of developers, we’ll use Processing to shed light on the theoretical underpinnings of computational media. Participants will gain proficiency with the Processing IDE and will discover wide-ranging possibilities for its expressive application. 
