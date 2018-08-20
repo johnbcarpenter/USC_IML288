@@ -6,8 +6,8 @@
 
 ## TEACHER INTROS
 
-Instructor: [John Carpenter](http://johnbcarpenter.com)
-TA: [Catherine Griffiths](http://isohale.com) 
+Instructor: [John Carpenter](http://johnbcarpenter.com)  
+TA: [Catherine Griffiths](http://isohale.com)  
 
 ## AN INTRODUCTION TO CREATIVE CODING
 

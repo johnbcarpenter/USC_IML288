@@ -1,7 +1,7 @@
 # USC_IML288
-IML 288 -- Critical Thinking and Procedural Media // USC Media Arts and Practice
-Instructor: [John Carpenter](http://johnbcarpenter.com)
-TA: [Catherine Griffiths](http://isohale.com) 
+IML 288 -- Critical Thinking and Procedural Media // USC Media Arts and Practice  
+Instructor: [John Carpenter](http://johnbcarpenter.com)  
+TA: [Catherine Griffiths](http://isohale.com)  
 
 Critical Thinking and Procedural Media is an introductory computer programming course that explores the use of code to generate digital art and design works.  If you're less familiar with programming (or totally new to it), don't worry — this class starts with the basics and builds up to more complex ideas (like object-oriented programming). If you've programmed before, great, we'll take what you know and look at the potentials of computational media to define new aesthetics, modes of representation and structures of communication. 
 
