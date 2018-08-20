@@ -18,16 +18,15 @@ TA: [Catherine Griffiths](http://isohale.com)
 [a brief list of creative coding studios and artists (WIP)](https://github.com/johnbcarpenter/USC_IML288/tree/master/LINKS.md) 
 
 ## sol lewitt in-class exercise
-[presentation]
+presentation
 
-## processig intro
+## processing intro
 Make: Getting Started with Processing by Ben Fry and Casey Reas (2nd Edition, 2015) 
 [Amazon (~$17)](http://www.amazon.com/dp/1457187086)
 
 Alternatively, the book is available digitally on [O'Reilly Safari](http://shop.oreilly.com/product/0636920031406.do)
 
 _download processing / running your first application_
-
 As students, you won't be required to purchase Processing (if you start to use it professionally, I’d encourage you to donate time or $ to the Processing Foundation). Processing runs on Windows and Linux; however, I’ll be teaching the workshops on a Mac (so if you have access to a Mac laptop, it will probably make it easier to follow along in class).
 
 [Processing: Getting Started](https://processing.org/tutorials/gettingstarted/)
