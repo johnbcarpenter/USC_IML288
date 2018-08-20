@@ -21,7 +21,7 @@ TA: [Catherine Griffiths](http://isohale.com)
 presentation
 
 ## processing intro
-Make: Getting Started with Processing by Ben Fry and Casey Reas (2nd Edition, 2015) 
+_Make: Getting Started with Processing_ by Ben Fry and Casey Reas (2nd Edition, 2015) 
 [Amazon (~$17)](http://www.amazon.com/dp/1457187086)
 
 Alternatively, the book is available digitally on [O'Reilly Safari](http://shop.oreilly.com/product/0636920031406.do)
