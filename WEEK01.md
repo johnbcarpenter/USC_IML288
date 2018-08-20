@@ -18,10 +18,10 @@ TA: [Catherine Griffiths](http://isohale.com)
 [a brief list of creative coding studios and artists (WIP)](https://github.com/johnbcarpenter/USC_IML288/tree/master/LINKS.md) 
 
 ## sol lewitt + casey reas in-class exercise
-- Generate your own set of rules inspired by the [wall drawings of Sol LeWitt](https://massmoca.org/sol-lewitt/).  
+- Take a look at the [wall drawings of Sol LeWitt](https://massmoca.org/sol-lewitt/) and generate your own set of rules (or choose one you like).  
 - Complete a drawing based on these rules.  
-- Instructor will translate a set of rules into processing code.
-- Discuss Casey Reas' [“Process Compendium (Introduction),” 2004-2010](https://vimeo.com/39078622).  
+- Translate the set of rules into processing code (instructor will do one or two).
+- View/discuss Casey Reas' [“Process Compendium (Introduction),” 2004-2010](https://vimeo.com/39078622).  
 
 ## processing intro
 _Make: Getting Started with Processing_ by Ben Fry and Casey Reas (2nd Edition, 2015) 
