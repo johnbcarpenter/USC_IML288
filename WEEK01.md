@@ -1,24 +1,26 @@
 # USC_IML288 -- WEEK 01
+Critical Thinking and Procedural Media is an introductory computer programming course that explores the use of code to generate digital art and design works.  If you're less familiar with programming (or totally new to it), don't worry — this class starts with the basics and builds up to more complex ideas (like object-oriented programming). If you've programmed before, great, we'll take what you know and look at the potentials of computational media to define new aesthetics, modes of representation and structures of communication. 
+
+This course is focused on becoming procedurally literate (being able to think like a creative coder), and is less concerned about learning a specific programming language. That said, due to its accessibility and active community of developers, we’ll use Processing to shed light on the theoretical underpinnings of computational media. Participants will gain proficiency with the Processing IDE and will discover wide-ranging possibilities for its expressive application. 
+
+We’ll gain experience through a series of coding exercises, and draw inspiration from a variety of artistic fields — from drawing, to painting, to sculpture, to gaming, to interactive installations.  By the end of the course, I’m hoping you’ll think of programming as another expressive medium for your art and design practice.
+
+The course will be taught as a workshop with introductions of topics by the professor and TA, followed by individual conversations and time to work in class. Special thanks to DJ Johnson, whose syllabus and teaching of this class helped shape this class.
 
 ## syllabus
-
 [full syllabus](https://github.com/johnbcarpenter/USC_IML288/tree/master/IML288_syllabus_FALL2018.pdf)
 
 ## teacher intros
-
 Instructor: [John Carpenter](http://johnbcarpenter.com)  
 TA: [Catherine Griffiths](http://isohale.com)  
 
 ## creative coding intro
-
-[a brief list of creative coding studios and artists (WIP)](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK01_LINKS.md) 
+[a brief list of creative coding studios and artists (WIP)](https://github.com/johnbcarpenter/USC_IML288/tree/master/LINKS.md) 
 
 ## sol lewitt in-class exercise
-
 [presentation]
 
 ## processig intro
-
 Make: Getting Started with Processing by Ben Fry and Casey Reas (2nd Edition, 2015) 
 [Amazon (~$17)](http://www.amazon.com/dp/1457187086)
 
