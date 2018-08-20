@@ -37,6 +37,8 @@ If you're brand new to processing, or it's been a little while since you've writ
 
 Daniel Shiffman's Video Tutorials on [YouTube](https://www.youtube.com/watch?v=2VLaIr5Ckbs) are also an excellent place to start.
 
+The [Processing Forum](https://discourse.processing.org/) is also a great place to post questions, and/or to take a look at issues other people have dealt with.
+
 ## HOMEWORK
 
 read _1/Hello_ and  _2/Starting to Code_
