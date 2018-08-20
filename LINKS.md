@@ -5,11 +5,13 @@ i'll keep updating throughout the semester.
 [creative applications network](http://www.creativeapplications.net)  
 [visual complexity](http://www.visualcomplexity.com/vc/)  
   
-## design firms/studios:  
+## websites/design firms/studios:  
+[aaron koblin](http://www.aaronkoblin.com/) + [WITHIN](https://www.with.in/)
 [cacheflowe](http://cacheflowe.com)  
 [casey reas](http://reas.com)  
 [design I/O](http://design-io.com)  
 [fathom information design](http://fathom.info)  
+[kate hollenbach](http://www.katehollenbach.com/)
 [mirada](http://mirada.com/pages/work/digital-experiential)  
 [refik anadol](http://www.refikanadol.com)  
 [ryoji ikeda](http://www.ryojiikeda.com/project/micro_macro/)  
