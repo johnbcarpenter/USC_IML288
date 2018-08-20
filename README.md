@@ -8,5 +8,5 @@ TA: [Catherine Griffiths](http://isohale.com)
 office hours: friday, 4-6pm by appointment  
 
 ## schedule
-[week 01](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK01.md) 
+[20180820 -- week 01](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK01.md) 
 
