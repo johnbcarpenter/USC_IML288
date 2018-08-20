@@ -1,4 +1,5 @@
-# USC_IML288 -- WEEK 01
+this list is a work in progress for references that we discuss in class.  
+i'll keep updating throughout the semester.
 
 ## blogs:
 [creative applications network](http://www.creativeapplications.net)  
@@ -17,7 +18,7 @@
 [teamlab](http://www.teamlab.art)  
 [variable](http://variable.io) + [marcin ignac](http://marcinignac.com/projects/cindermedusae/)  
   
-## instagram accounts:  
+## instagram:  
 [cbuyukberber](http://www.instagram.com/cbuyukberber/)  
 [colin.droz](http://www.instagram.com/colin.droz/)  
 [johnbcarpenter](http://www.instagram.com/johnbcarpenter/)  

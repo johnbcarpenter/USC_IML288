@@ -18,7 +18,8 @@ TA: [Catherine Griffiths](http://isohale.com)
 [a brief list of creative coding studios and artists (WIP)](https://github.com/johnbcarpenter/USC_IML288/tree/master/LINKS.md) 
 
 ## sol lewitt in-class exercise
-presentation
+Generate your own set of rules inspired by the work of Sol LeWitt.  
+Complete a drawing based on these rules.  
 
 ## processing intro
 _Make: Getting Started with Processing_ by Ben Fry and Casey Reas (2nd Edition, 2015) 
