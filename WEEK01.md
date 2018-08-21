@@ -14,6 +14,8 @@ The course will be taught as a workshop with introductions of topics by the prof
 Instructor: [John Carpenter](http://johnbcarpenter.com)  
 TA: [Catherine Griffiths](http://isohale.com)  
 
+## student intros
+
 ## creative coding intro
 [a brief list of creative coding studios and artists (WIP)](https://github.com/johnbcarpenter/USC_IML288/tree/master/LINKS.md) 
 
