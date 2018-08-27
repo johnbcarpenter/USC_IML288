@@ -38,3 +38,6 @@ i'll keep updating throughout the semester.
 [day for night](http://dayfornight.io)  
 [EYEO](http://eyeofestival.com)  
 [gray area festival](http://grayareafestival.io)  
+
+## talks:
+[zach lieberman @ EYEO] https://vimeo.com/232656895
