@@ -1,27 +1,23 @@
 # WEEK 02
 
-## _1/Hello, 2/Starting to Code, 3/Draw_ lecture
-
 ## sol lewitt + casey reas in-class exercise
 - Take a look at the [wall drawings of Sol LeWitt](https://massmoca.org/sol-lewitt/) and generate your own set of rules (or choose one you like).  
 - Complete a drawing based on these rules.  
 - Translate the set of rules into processing code (instructor will do one or two).
 - View/discuss Casey Reas' [“Process Compendium (Introduction),” 2004-2010](https://vimeo.com/39078622).  
 
-## keynote presentaiton
-
-links from the lecture:
-_Make: Getting Started with Processing_ by Ben Fry and Casey Reas (2nd Edition, 2015) [Amazon (~$17)](http://www.amazon.com/dp/1457187086)  
-Alternatively, the book is available digitally on [O'Reilly Safari](http://shop.oreilly.com/product/0636920031406.do)  
-[download processing + run your first application](https://processing.org/tutorials/gettingstarted/)  
-[coordinate system and shapes by danieal shiffman](https://www.processing.org/tutorials/drawing)  
-[color by daniel shiffman](https://www.processing.org/tutorials/color)  
+## _1/Hello, 2/Starting to Code, 3/Draw_ lecture
+_links:_
+- _Make: Getting Started with Processing_ by Ben Fry and Casey Reas (2nd Edition, 2015) [Amazon (~$17)](http://www.amazon.com/dp/1457187086) / [O'Reilly Safari](http://shop.oreilly.com/product/0636920031406.do)  
+- [download processing + run your first application](https://processing.org/tutorials/gettingstarted/)  
+- [coordinate system and shapes by danieal shiffman](https://www.processing.org/tutorials/drawing)  
+- [color by daniel shiffman](https://www.processing.org/tutorials/color)  
 
 ## Homework 01 // Due 2018.09.10
 _color + form / abstract minimalism inspiration_  
-[JOSEF ALBERS, HOMAGE TO THE SQUARE, 1965](http://www.albersfoundation.org/art/josef-albers/paintings/homages-to-the-square/index/)  
-[ANNE TRUITT, 14 JUNE '65 [1], 1965](https://www.matthewmarks.com/new-york/exhibitions/2015-09-11_anne-truitt-in-japan/works-in-exhibition/)
-[ELLSWORTH KELLY AT SFMOMA](https://www.sfmoma.org/artist/Ellsworth_Kelly)
+- [JOSEF ALBERS, HOMAGE TO THE SQUARE, 1965](http://www.albersfoundation.org/art/josef-albers/paintings/homages-to-the-square/index/)  
+- [ANNE TRUITT, 14 JUNE '65 [1], 1965](https://www.matthewmarks.com/new-york/exhibitions/2015-09-11_anne-truitt-in-japan/works-in-exhibition/)  
+- [ELLSWORTH KELLY AT SFMOMA](https://www.sfmoma.org/artist/Ellsworth_Kelly)
 
 **Part I. Recreate a Form and Color / Abstract Minimalist Artwork with Code**  
 and think about draw order, color, form, shapes, fill, stroke.    
