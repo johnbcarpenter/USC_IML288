@@ -6,7 +6,8 @@
 - Translate the set of rules into processing code (instructor will do one or two).
 - View/discuss Casey Reas' [“Process Compendium (Introduction),” 2004-2010](https://vimeo.com/39078622).  
 
-![sketch](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK02/sol_lewitt_exercise/IMG_7302.jpg "sketch")  
+
+![sol lewitt in-class sketch](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK02/sol_lewitt_exercise/IMG_7302.jpg)  
 [processing code](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK02/sol_lewitt_exercise/sol_lewitt_exercise.pde)  
 
 ## _1/Hello, 2/Starting to Code, 3/Draw_ lecture
