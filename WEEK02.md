@@ -6,6 +6,9 @@
 - Translate the set of rules into processing code (instructor will do one or two).
 - View/discuss Casey Reas' [“Process Compendium (Introduction),” 2004-2010](https://vimeo.com/39078622).  
 
+![sketch](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK02/sol_lewitt_exercise/IMG_7302.jpg "sketch")  
+[processing code](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK02/sol_lewitt_exercise/sol_lewitt_exercise.pde)  
+
 ## _1/Hello, 2/Starting to Code, 3/Draw_ lecture
 _links:_
 - _Make: Getting Started with Processing_ by Ben Fry and Casey Reas (2nd Edition, 2015) [Amazon (~$17)](http://www.amazon.com/dp/1457187086) / [O'Reilly Safari](http://shop.oreilly.com/product/0636920031406.do)  
