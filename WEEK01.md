@@ -8,7 +8,7 @@ We’ll gain experience through a series of coding exercises, and draw inspirati
 The course will be taught as a workshop with introductions of topics by the professor and TA, followed by individual conversations and time to work in class. Special thanks to DJ Johnson, whose syllabus and teaching of this class helped shape this class.
 
 ## syllabus
-[full syllabus](https://github.com/johnbcarpenter/USC_IML288/tree/master/IML288_syllabus_FALL2018.pdf)
+[full syllabus](https://github.com/johnbcarpenter/USC_IML288/tree/master/PDF/IML288_syllabus_FALL2018.pdf)
 
 ## teacher intros
 Instructor: [John Carpenter](http://johnbcarpenter.com)  
