@@ -10,4 +10,5 @@ office hours: friday, 4-6pm _by appointment_
 ## schedule
 [2018.08.20 -- week 01](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK01.md)  
 [2018.08.27 -- week 02](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK02.md)  
+[2018.09.10 -- week 03](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK03.md)  
 
