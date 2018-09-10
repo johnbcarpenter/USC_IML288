@@ -24,7 +24,8 @@ i'll keep updating throughout the semester.
 [field](https://www.field.io/)  
 [lauren vasey](https://www.laurenvasey.com/)  
 [alisa andrasek](https://www.alisaandrasek.com/)  
-[lia](http://www.liaworks.com/)
+[lia](http://www.liaworks.com/)  
+[lauren mccarthy](http://lauren-mccarthy.com/)
   
 ## instagram:  
 [cbuyukberber](http://www.instagram.com/cbuyukberber/)  
