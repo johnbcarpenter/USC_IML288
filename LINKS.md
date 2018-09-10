@@ -32,7 +32,7 @@ i'll keep updating throughout the semester.
 [quayola](http://www.instagram.com/quayola/)  
 [threevertices](http://www.instagram.com/threevertices/)  
 [vincent.houze](http://www.instagram.com/vincent.houze/)  
-[zach.lieberman](http://www.instagram.com/zach.lieberman/) 
+[zach.lieberman](http://www.instagram.com/zach.lieberman/)  
 [jessica in](https://www.instagram.com/shedrawswithcode/)
   
 ## festivals:  
