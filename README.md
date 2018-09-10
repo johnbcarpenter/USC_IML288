@@ -8,7 +8,7 @@ office hours: monday 3-4pm, 7pm+ _by appointment_
 office hours: friday, 4-6pm _by appointment_  
 
 ## schedule
-**Week 01. 08/20/2018 -- intros: teacher, TA + students, creative coding + processing](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK01.md)**  
+**[Week 01. 08/20/2018 -- intros: teacher, TA + students, creative coding + processing](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK01.md)**  
 class activity: sol lewitt  
 reading/viewing: 1/Hello, 2/Starting to Code, https://processing.org/tutorials/gettingstarted/  
   
