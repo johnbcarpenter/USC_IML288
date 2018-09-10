@@ -19,6 +19,7 @@ i'll keep updating throughout the semester.
 [sheltron visuals](http://nshelton.github.io)  
 [teamlab](http://www.teamlab.art)  
 [variable](http://variable.io) + [marcin ignac](http://marcinignac.com/projects/cindermedusae/)  
+[julia koerner](https://www.juliakoerner.com/)
   
 ## instagram:  
 [cbuyukberber](http://www.instagram.com/cbuyukberber/)  
