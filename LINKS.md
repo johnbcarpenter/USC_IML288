@@ -40,7 +40,7 @@ i'll keep updating throughout the semester.
 [threevertices](http://www.instagram.com/threevertices/)  
 [vincent.houze](http://www.instagram.com/vincent.houze/)  
 [zach.lieberman](http://www.instagram.com/zach.lieberman/)  
-[jessica in](https://www.instagram.com/shedrawswithcode/)
+[shedrawswithcode](https://www.instagram.com/shedrawswithcode/)
   
 ## festivals:  
 [day for night](http://dayfornight.io)  
