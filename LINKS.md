@@ -48,4 +48,4 @@ i'll keep updating throughout the semester.
 [gray area festival](http://grayareafestival.io)  
 
 ## talks:
-zach lieberman @ EYEO https://vimeo.com/232656895
+[zach lieberman @ EYEO](https://vimeo.com/232656895)
