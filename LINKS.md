@@ -22,7 +22,8 @@ i'll keep updating throughout the semester.
 [julia koerner](https://www.juliakoerner.com/)  
 [hannah davis](http://www.hannahishere.com/)  
 [field](https://www.field.io/)  
-[lauren vasey](https://www.laurenvasey.com/)
+[lauren vasey](https://www.laurenvasey.com/)  
+[alisa andrasek](https://www.alisaandrasek.com/)
   
 ## instagram:  
 [cbuyukberber](http://www.instagram.com/cbuyukberber/)  
