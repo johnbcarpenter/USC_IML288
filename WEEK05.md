@@ -5,7 +5,7 @@
 - [in-class keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20180917_VARIABLESptII.pdf)
 - working session
 
-## Homework 02 // Due 2018.09.17
+## Homework 02 // Due 2018.09.24
 **Part I. Reproduce one of Agnes Martin’s grid paintings/drawings**  
 use at least one for loop in your work.    
   
