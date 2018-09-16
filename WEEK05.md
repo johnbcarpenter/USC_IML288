@@ -2,7 +2,7 @@
 
 ## _4/Variables_ part II lecture
 - the perception of code/programmers (in class discussion)
-- [in-class keynote presentation] (https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20180917_VARIABLESptII.pdf)
+- [in-class keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20180917_VARIABLESptII.pdf)
 - working session
 
 ## Homework 02 // Due 2018.09.17
