@@ -12,6 +12,7 @@ use at least one for loop in your work.
 _Size: 1280x1280 pixels_  
 
 **Part II. Come up with a concept and generate your own grid inspired by the work of Agnes Martin**  
+_bonus: make your work interactive, responding to the mouse position_
 
 _Size: appropriate to the work and fits within 1280x720 or 1280x1280 pixels_  
 
