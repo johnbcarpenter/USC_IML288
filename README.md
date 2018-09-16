@@ -21,7 +21,7 @@ reading: chapter 3/Draw
 reading: 4/Variables   
 homework 01 due: draw   
   
-**Week 05. 09/17/2018 -- variables part II. for loops // mondrian, agnes martin**   
+**[Week 05. 09/17/2018 -- variables part II. for loops // agnes martin, mondrian](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK05.md)**   
 reading: 4/Variables   
 homework 02 due: variables I    
   
