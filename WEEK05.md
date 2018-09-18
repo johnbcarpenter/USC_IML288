@@ -1,8 +1,9 @@
-# WEEK 04 
+# WEEK 05 
 
 ## _4/Variables_ part II lecture
 - the perception of code/programmers (in class discussion)
 - [in-class keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20180917_VARIABLESptII.pdf)
+- [in-class code examples](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK05)
 - working session
 
 ## Homework 02 // Due 2018.09.24
