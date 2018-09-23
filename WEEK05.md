@@ -6,7 +6,7 @@
 - [in-class code examples](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK05)
 - working session
 
-## Homework 02 // Due 2018.09.24
+## Homework 03 // Due 2018.09.24
 **Part I. Reproduce one of Agnes Martin’s grid paintings/drawings**  
 use at least one for loop in your work.    
   
