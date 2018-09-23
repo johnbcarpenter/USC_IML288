@@ -25,9 +25,8 @@ homework 01 due: draw
 reading: 4/Variables   
 homework 02 due: variables I    
   
-**Week 06. 09/24/2018 -- track the mouse, speed, ease // jung do-jun — …returning home  
-3D drawing? // beverly pepper — early sculpture w kinetic element  
-click, hover, key press // design I/O — connected worlds**  
+**[Week 06. 09/24/2018 -- track the mouse // jung do-jun, beverly pepper  
+click, hover, key press // design I/O, teamLab](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK06.md)**  
 reading: 5/Response   
 homework 03 due: variables II (for loop)    
   
