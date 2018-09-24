@@ -11,7 +11,7 @@
 
 ## Homework 04 // Due 2018.10.01
 **Part I. Create a drawing tool**  
-using some of the things we discussed in class today (mouseX, mouseY, pmouseX, pmouseY, etc)  
+using some of the things we discussed in class today (_mouseX, mouseY, pmouseX, pmouseY_, easing, etc)  
     
 _Size: 1280x720 pixels_  
   
