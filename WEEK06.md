@@ -5,7 +5,7 @@
 - artist references:
   - [Verse after Tao Yuanming’s Returning Home by Jung Do-jun (2011)](http://portlandartmuseum.us/mwebcgi/mweb.exe?request=record;id=20252;type=701)  
   - [Beverly Pepper, Early Sculpture with Kinetic Element (1962)](https://www.artsy.net/article/artsy-editorial-11-female-minimalists-you-should-know)  
-  - [Design I/O, Connectd Worlds, 2015](http://design-io.com/projects/ConnectedWorlds/)  
+  - [Design I/O, Connectd Worlds (2015)](http://design-io.com/projects/ConnectedWorlds/)  
   - [teamLab, Graffiti Nature at the Walker Art Museum (2017)](https://walkerart.org/press-releases/2017/virtual-ecosystems-dissolve-boundaries-betwee)  
 - working session  
 
