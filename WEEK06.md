@@ -2,6 +2,7 @@
 
 ## _5/Input_ lecture
 - [in-class keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20180924_INPUT.pdf)  
+- [in-class code examples](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK06)
 - artist references:
   - [Verse after Tao Yuanming’s Returning Home by Jung Do-jun (2011)](http://portlandartmuseum.us/mwebcgi/mweb.exe?request=record;id=20252;type=701)  
   - [Beverly Pepper, Early Sculpture with Kinetic Element (1962)](https://www.artsy.net/article/artsy-editorial-11-female-minimalists-you-should-know)  
