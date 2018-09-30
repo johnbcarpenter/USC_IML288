@@ -30,7 +30,7 @@ click, hover, key press // design I/O, teamLab](https://github.com/johnbcarpente
 reading: 5/Response   
 homework 03 due: variables II (for loop)    
   
-**Week 07. 10/01/2018 -- image, text, shape // photomontage: grosz and heartfield, höch**  
+**[Week 07. 10/01/2018 -- image, text, shape // photomontage, collage, and composite images](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK07.md)**  
 reading: 6/Media   
 homework 04 due: response   
   
