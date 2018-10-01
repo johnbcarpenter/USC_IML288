@@ -8,29 +8,29 @@ office hours: monday 3-4pm, 7pm+ _by appointment_
 office hours: friday, 4-6pm _by appointment_  
 
 ## schedule
-**[Week 01. 08/20/2018 -- intros: teacher, TA + students, creative coding + processing](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK01.md)**  
+**[Week 01. 08/20/2018 -- intros: teacher, TA + students, creative coding + processing](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK01.md)**  
 class activity: sol lewitt  
 reading/viewing: 1/Hello, 2/Starting to Code, https://processing.org/tutorials/gettingstarted/  
   
-**[Week 02. 08/27/2018 -- form + color // josef albers, anne truitt, ellsworth kelly](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK02.md)**  
+**[Week 02. 08/27/2018 -- form + color // josef albers, anne truitt, ellsworth kelly](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK02.md)**  
 reading: chapter 3/Draw   
   
 **Week 03. 09/03/2018 labor day (no class)** 
   
-**[Week 04. 09/10/2018 -- working with variables // takashi murakami](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK04.md)**  
+**[Week 04. 09/10/2018 -- working with variables // takashi murakami](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK04.md)**  
 reading: 4/Variables   
 homework 01 due: draw   
   
-**[Week 05. 09/17/2018 -- variables part II. for loops // agnes martin, mondrian](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK05.md)**   
+**[Week 05. 09/17/2018 -- variables part II. for loops // agnes martin, mondrian](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK05.md)**   
 reading: 4/Variables   
 homework 02 due: variables I    
   
 **[Week 06. 09/24/2018 -- track the mouse // jung do-jun, beverly pepper  
-click, hover, key press // design I/O, teamLab](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK06.md)**  
+click, hover, key press // design I/O, teamLab](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK06.md)**  
 reading: 5/Response   
 homework 03 due: variables II (for loop)    
   
-**[Week 07. 10/01/2018 -- image, text, shape // hoch, hockney, and relander](https://github.com/johnbcarpenter/USC_IML288/tree/master/WEEK07.md)**  
+**[Week 07. 10/01/2018 -- image, text, shape // hoch, hockney, and relander](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK07.md)**  
 reading: 6/Media   
 homework 04 due: response   
   
