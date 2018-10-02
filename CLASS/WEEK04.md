@@ -1,7 +1,8 @@
 # WEEK 04 
 
 ## _4/Variables_ lecture
-- [in-class keynote presentation] (https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20180910_VARIABLES.pdf)
+- [in-class keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20180910_VARIABLES.pdf)
+- [IN-CLASS CODE EXAMPLES](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK04)
 
 ## Homework 02 // Due 2018.09.17
 **Part I. Generate a Graphic Inspired by Takashi Murakami**  
