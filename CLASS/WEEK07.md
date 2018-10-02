@@ -2,6 +2,11 @@
 
 ## _6/Media_ lecture
 - [in-class keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20181001_MEDIA.pdf)  
+- links for working with images:
+  - [Images and Pixels by Daniel Shiffman](https://processing.org/tutorials/pixels/)
+  - [Daniel Shiffman Intro to Images](https://www.youtube.com/watch?v=-f0WEitGmiw&vl=en)
+  - [blendMode()](https://processing.org/reference/blendMode_.html)
+  - [filter()](https://processing.org/reference/filter_.html)
 - artist references:
   - [Snowflakes in Photographs by W A Bentley (1931)](https://books.google.com/books?id=4O25SZtrMfkC)  
   - [Boquet of Eyes by Hannah Hoch (1930)](https://theartstack.com/artist/hannah-hoch/bouquet-eyes-1930)  
