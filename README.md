@@ -34,8 +34,8 @@ homework 03 due: variables II (for loop)
 reading: 6/Media   
 homework 04 due: response   
   
-**Week 08. 10/08/2018 -- bouncing ball, hit detection, ++ // atari pong  
-and/or spotify song artwork video loop // maribou state**			 			 
+**[Week 08. 10/08/2018 -- motion, hit detection, pong (1972) +   
+spotify song artwork video loop](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK08.md)**			 			 
 reading: 7/Motion   
 homework 05 due: media   
   
