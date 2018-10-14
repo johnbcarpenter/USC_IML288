@@ -39,7 +39,7 @@ spotify song artwork video loop](https://github.com/johnbcarpenter/USC_IML288/tr
 reading: 7/Motion   
 homework 05 due: media   
   
-**Week 09. 10/15/2018 -- building blocks of code // matisse — la gerbe**  
+**[Week 09. 10/15/2018 -- functions // svensk tenn, manoloide, lichtenstein, matisse](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK09.md)**  
 reading: 8/Functions   
 homework 06 due: motion   
   
