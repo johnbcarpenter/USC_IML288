@@ -6,8 +6,9 @@
 - [in-class keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20181015_FUNCTIONS.pdf)  
 - [IN-CLASS CODE EXAMPLES](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK09)  
 - artist references:  
-  - [Elefant by Estrid Ericson (1930s) + Tulpaner by Josef Frank (1940s)[https://www.svenskttenn.se/en/range/textile/fabric/]
-  - [Instagram/Manoloide](https://www.instagram.com/Manoloide) 
+  - [Elefant by Estrid Ericson (1930s) + Tulpaner by Josef Frank (1940s)](https://www.svenskttenn.se/en/range/textile/fabric/)
+  - [La Gerbe by Henri Matisse (1953)](https://collections.lacma.org/node/207557)  
+  - [Instagram/Manoloide](https://www.instagram.com/Manoloide)  
   - [Modular Painting with Four Panels, No. 7 by Roy Lichtenstein (1970)](https://cranbrookartmuseum.org/artwork/roy-lichtenstein-modular-painting-with-four-panels-no-7/)   
 - working session  
 
