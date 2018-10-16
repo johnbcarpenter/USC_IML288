@@ -5,7 +5,7 @@
 - [discussion of sin/cos from last week's keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20181008_MOTION.pdf)  
 - [in-class keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20181015_FUNCTIONS.pdf)  
 - [IN-CLASS CODE EXAMPLES](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK09)  
-![rainbow_snail](https://github.com/johnbcarpenter/USC_IML288/blob/master/CODE/WEEK09/rainbow_snail.png) ![InspiredByManoloide](https://github.com/johnbcarpenter/USC_IML288/blob/master/CODE/WEEK09/InspiredByManoloide.png) 
+![rainbow_snail](https://github.com/johnbcarpenter/USC_IML288/blob/master/CODE/WEEK09/rainbow_snail.png | width=240) ![InspiredByManoloide](https://github.com/johnbcarpenter/USC_IML288/blob/master/CODE/WEEK09/InspiredByManoloide.png | width=240) 
 
 - artist references:  
   - [Elefant by Estrid Ericson (1930s) + Tulpaner by Josef Frank (1940s)](https://www.svenskttenn.se/en/range/textile/fabric/)
