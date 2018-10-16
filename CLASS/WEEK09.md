@@ -4,12 +4,10 @@
 - homework in-class review + discussion  
 - [discussion of sin/cos from last week's keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20181008_MOTION.pdf)  
 - [in-class keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20181015_FUNCTIONS.pdf)  
-
-
-![alt text](https://github.com/johnbcarpenter/USC_IML288/blob/master/CODE/WEEK09/InspiredByManoloide.png)  
-![alt text](https://raw.githubusercontent.com/johnbcarpenter/USC_IML288/blob/master/CODE/WEEK09/InspiredByManoloide.png) 
-
 - [IN-CLASS CODE EXAMPLES](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK09)  
+![rainbow_snail](https://github.com/johnbcarpenter/USC_IML288/blob/master/CODE/WEEK09/rainbow_snail.png) 
+![InspiredByManoloide](https://github.com/johnbcarpenter/USC_IML288/blob/master/CODE/WEEK09/InspiredByManoloide.png) 
+
 - artist references:  
   - [Elefant by Estrid Ericson (1930s) + Tulpaner by Josef Frank (1940s)](https://www.svenskttenn.se/en/range/textile/fabric/)
   - [La Gerbe by Henri Matisse (1953)](https://collections.lacma.org/node/207557)  
