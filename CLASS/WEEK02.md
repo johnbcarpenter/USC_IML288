@@ -20,6 +20,7 @@ _links:_
 ## Homework 01 // Due 2018.09.10
 _color + form / abstract minimalism inspiration_  
 - [JOSEF ALBERS, HOMAGE TO THE SQUARE, 1965](http://www.albersfoundation.org/art/josef-albers/paintings/homages-to-the-square/index/)  
+![DANETARAS/2-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_DANETARAS/2-1.png)![FUESLER/2-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_FUESLER/2-1.png)![GUARACO/2-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_GUARACO/2-1.png)![LEE/2-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_LEE/2-1.png)![TERRY/2-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TERRY/2-1.png)![TRAN/2-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TRAN/2-1.png)![WANG/2-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WANG/2-1.png)![WEDIN/2-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WEDIN/2-1.png)![YANG/2-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YANG/2-1.png)![YUAN/2-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YUAN/2-1.png)  
 - [ANNE TRUITT, 14 JUNE '65 [1], 1965](https://www.matthewmarks.com/new-york/exhibitions/2015-09-11_anne-truitt-in-japan/works-in-exhibition/)  
 - [ELLSWORTH KELLY AT SFMOMA](https://www.sfmoma.org/artist/Ellsworth_Kelly)
 
