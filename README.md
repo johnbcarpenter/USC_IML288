@@ -43,7 +43,7 @@ homework 05 due: media
 reading: 8/Functions   
 homework 06 due: motion   
   
-**Week 10. 10/22/2018 -- object oriented programming // TBD**  
+**[Week 10. 10/22/2018 -- object oriented programming // rand, manoloide, kandinsky](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK10.md)**  
 reading: 9/Objects   
 homework 07 due: functions   
   
