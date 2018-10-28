@@ -47,7 +47,7 @@ homework 06 due: motion
 reading: 9/Objects   
 homework 07 due: functions   
   
-**Week 11. 10/29/2018 -- variables and objects —> arrays // TBD**  
+**[Week 11. 10/29/2018 -- variables and objects —> arrays // revisit rand + manoloide](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK11.md)**  
 reading: 10/Arrays   
 homework 08 due: objects   
   
