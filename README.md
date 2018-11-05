@@ -52,8 +52,9 @@ reading: 10/Arrays
 homework 08 due: objects   
   
 **[Week 12. 11/05/2018 -- extend: libraries, final project discussion]
-(https://github.com/johnbcarpenter/USC_IML288/blob/master/CLASS/WEEK12.md)**
-(https://github.com/johnbcarpenter/USC_IML288/blob/master/CLASS/WEEK11.md)**  
+(https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK12.md)**
+(https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK11.md)**  
+
 homework 09 due: arrays    
   
 **Week 13. 11/12/2018 -- extend: shiffman nature of code, (reynolds) flocking, reas**   
