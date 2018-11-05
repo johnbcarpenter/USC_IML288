@@ -51,11 +51,11 @@ homework 07 due: functions
 reading: 10/Arrays   
 homework 08 due: objects   
   
-**Week 12. 11/05/2018 -- extend: qualitative space, look + feel // o’keeffe, tomory dodge**  
+**Week 12. 11/05/2018 -- extend: final project kickstart, libraries**  
 homework 09 due: arrays    
   
 **Week 13. 11/12/2018 -- extend: shiffman nature of code, (reynolds) flocking, reas**   
-homework 10 due: quality    
+homework 10 due: draft final project + libraries    
   
 **Week 14. 11/19/2018 -- working session**  
 homework 11 due: extend  
