@@ -48,16 +48,16 @@ class BouncyBall {
     trail_x[0] = x;
     trail_y[0] = y;
   }
-  
+
   void display() {
     noStroke();
     fill(c);
     ellipse(x, y, sz, sz);
-    
-    for(int i = 0; i < trail_x.length; i++){
-      float fctr = i/float(trail_x.length);
-      fill(c,255-255*fctr);
-       ellipse(trail_x[i],trail_y[i],sz,sz);
+
+    for (int i = 0; i < trail_x.length; i++) {
+      float alpha = 255-255*i/float(trail_x.length);
+      fill(c, alpha);
+      ellipse(trail_x[i], trail_y[i], sz, sz);
     }
   }
 }
