@@ -8,7 +8,8 @@
 ## Homework 09 + 10 // Due 2018.11.19  
 revisit homework [09](https://github.com/johnbcarpenter/USC_IML288/blob/master/CLASS/WEEK09.md) + [10](https://github.com/johnbcarpenter/USC_IML288/blob/master/CLASS/WEEK10.md) and send in the _FINAL_ versions of them (if needed)  
   
-While not an "official" homework, please turn in a WIP (work in progress) version of the work you're doing for the final project:  
+While not an "official" homework, please turn in a WIP (work in progress) version of the work you're doing for the final project  
+  
 **FINAL PROJECT: Use processing (code) as a medium for the generation of your own digital art and/or design work.  You can explore any idea or concept that interests you, though I'd encourage you to demonstrate a mastery of the programming techniques covered in this course.  You should feel free to explore the use of libraries and other algorithms (eg The Nature of Code), though be sure that you 1) reference them correctly, 2) understand their code base (if i ask a question about your code, i'd like you to be able to describe how you're using the library), and 3) develop the piece to the point that you've added your own unique perspective and contribution to the work (it shouldn't just look like one of the examples).**
 
 things to turn in at the final:
