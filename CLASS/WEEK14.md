@@ -3,7 +3,8 @@
 ## Extend Pt II  
 
 - [in-class keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20181112_FLOCKING.pdf)  
-- code example: [flocking](https://processing.org/examples/flocking.html)  
+- original shiffman code example: [flocking](https://processing.org/examples/flocking.html)  
+- [in-class code examples](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK14)  
 - code references: [the nature of code by daniel shiffman](https://natureofcode.com) / [NOC autonomous agents](http://natureofcode.com/book/chapter-6-autonomous-agents/)  
 - working session / individual discussions 
 - artist references:  
