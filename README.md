@@ -62,7 +62,6 @@ homework 09 + 10 (final versions) due
 note: 11/22-25/2018 -- thanksgiving recess  
   
 **Week 15. 11/26/2018 -- working session**  
-homework 11 due: extend  
 
 **Week 16. 12/03/2018 -- Study Days: 12/01 - 12/04/2018 (no class)**   
   
