@@ -4,7 +4,10 @@
 **Use processing (code) as a medium for the generation of your own digital art and/or design work.  You can explore any idea or concept that interests you, though I'd encourage you to demonstrate a mastery of the programming techniques covered in this course.  You should feel free to explore the use of libraries and other algorithms (eg The Nature of Code), though be sure that you 1) reference them correctly, 2) understand their code base (if i ask a question about your code, i'd like you to be able to describe how you're using the library), and 3) develop the piece to the point that you've added your own unique perspective and contribution to the work (it shouldn't just look like one of the examples).**
 
 things to turn in at the final:
-```- your source code (zipped root folder with all assets)
+```
+- your source code (zipped root folder with all assets)
+- work in progress versions of your source code (zipped root folder with all assets) + any
+  other experiements/studies that help show the development of your final work
 - a txt document with your work's title and one or two sentences about the project
 - properly commented source code (include the above description). as an example, please see
   https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK13/atoms_ptIII 
