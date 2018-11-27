@@ -62,6 +62,7 @@ homework 09 + 10 (final versions) due
 note: 11/22-25/2018 -- thanksgiving recess  
   
 **Week 15. 11/26/2018 -- working session**  
+[FINAL NOTES](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/FINAL_NOTES.md)  
 
 **Week 16. 12/03/2018 -- Study Days: 12/01 - 12/04/2018 (no class)**   
   
