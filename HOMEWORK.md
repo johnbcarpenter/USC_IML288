@@ -1,4 +1,4 @@
-# WEEK 02
+# WEEK 02 (Homework 1)  
 **Part I. Recreate a Form and Color / Abstract Minimalist Artwork with Code**  
 and think about draw order, color, form, shapes, fill, stroke.    
 _Size: appropriate to the work and fits within 1280x720 pixels (e.g. a square work would be 720x720 pixels)_  
@@ -7,14 +7,14 @@ _Size: appropriate to the work and fits within 1280x720 pixels (e.g. a square wo
 Inspired by Part I  
 _Size: appropriate to the work and fits within 1280x720 pixels_  
 ![DANETARAS/2-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_DANETARAS/2-2.png)![FUESLER/2-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_FUESLER/2-2.png)![GUARACO/2-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_GUARACO/2-2.png)![LEE/2-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_LEE/2-2.png)![TERRY/2-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TERRY/2-2.png)![TRAN/2-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TRAN/2-2.png)![WANG/2-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WANG/2-2.png)![WEDIN/2-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WEDIN/2-2.png)![YANG/2-2a](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YANG/2-2a.png)![YANG/2-2b](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YANG/2-2b.png)![YUAN/2-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YUAN/2-2.png) 
-# WEEK 04 
+# WEEK 04 (Homework 2)   
 **Part I. Generate a Graphic Inspired by Takashi Murakami**  
 and think about how to use variables in your design, and the topics described in the previous lecture (form + color).  
 _Size: appropriate to the work and fits within 1280x720 pixels (e.g. a square work would be 720x720 pixels)_  
 **Part II. Use a for loop with Your Design to Generate a Texture**  
 _Size: appropriate to the work and fits within 1280x720 pixels_  
 ![DANETARAS/4-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_DANETARAS/4-1.png)![FUESLER/4-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_FUESLER/4-1.png)![GUARACO/4-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_GUARACO/4-2.png)![LEE/4-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_LEE/4-1.png)![TERRY/4-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TERRY/4-2.png)![TRAN/4-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TRAN/4-2.png)![WANG/4-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WANG/4-2.png)![WEDIN/4-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WEDIN/4-1.png)![YANG/4-1a](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YANG/4-1a.png)![YANG/4-1b](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YANG/4-1b.png)![YUAN/4-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YUAN/4-2.png)   
-# WEEK 05 
+# WEEK 05 (Homework 3)   
 **Part I. Reproduce one of Agnes Martin’s grid paintings/drawings**  
 use at least one for loop in your work.    
 _Size: 1280x1280 pixels_  
@@ -23,7 +23,7 @@ _Size: 1280x1280 pixels_
 _bonus: make your work interactive, responding to the mouse position_
 _Size: appropriate to the work and fits within 1280x720 or 1280x1280 pixels_  
 ![DANETARAS/5-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_DANETARAS/5-2.png)![FUESLER/5-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_FUESLER/5-2.png)![GUARACO/5-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_GUARACO/5-2.png)![LEE/5-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_LEE/5-2.png)![TERRY/5-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TERRY/5-2.png)![TRAN/5-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TRAN/5-2.png)![WANG/5-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WANG/5-2.png)![WEDIN/5-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WEDIN/5-2.png)![YANG/5-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YANG/5-2.png)![YUAN/5-2a](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YUAN/5-2a.png)![YUAN/5-2b](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YUAN/5-2b.png)![YUAN/5-2c](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YUAN/5-2c.png)![YUAN/5-2d](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YUAN/5-2d.png)![YUAN/5-2e](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YUAN/5-2e.png)![YUAN/5-2f](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YUAN/5-2f.png)  
-# WEEK 06 
+# WEEK 06 (Homework 4)   
 **Part I. Create a drawing tool**  
 using some of the things we discussed in class today (_mouseX, mouseY, pmouseX, pmouseY_, easing, etc)      
 _Size: 1280x720 pixels_   
@@ -32,7 +32,7 @@ _Size: 1280x720 pixels_
 _Some options: have the organism follow the mouse (easing? rotate?), move the organism around with the arrow keys, change the appearance or behavior of the organism on hover_  
 _Size: 1280x720 pixels_   
 ![DANETARAS/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_DANETARAS/6-2.png)![FUESLER/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_FUESLER/6-2.png)![GUARACO/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_GUARACO/6-2.png)![LEE/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_LEE/6-2.png)![TERRY/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TERRY/6-2.png)![TRAN/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TRAN/6-2.png)![WANG/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WANG/6-2.png)![WEDIN/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WEDIN/6-2.png)![YANG/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YANG/6-2.png)![YUAN/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YUAN/6-2.png)  
-# WEEK 07 
+# WEEK 07 (Homework 5)   
 **Part I. Use a for loop to generate a kaleidoscopic image**  
 Using either a PImage, PFont, or PShape  
 _Size: 720x720 pixels_  
@@ -41,7 +41,7 @@ _Size: 720x720 pixels_
 Think about an interesting way to use code with imagery  
 _Size: 1280x720 pixels or 720x720 pixels_   
 ![DANETARAS/7-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_DANETARAS/7-2.png)![FUESLER/7-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_FUESLER/7-2.png)![GUARACO/7-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_GUARACO/7-2.png)![LEE/7-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_LEE/7-2.png)![TERRY/7-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TERRY/7-2.png)![TRAN/7-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TRAN/7-2.png)![WANG/7-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WANG/7-2.png)![WEDIN/7-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WEDIN/7-2.png)![YANG/7-2a](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YANG/7-2a.jpg)![YANG/7-2b](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YANG/7-2b.jpg)![YUAN/7-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YUAN/7-2.png)  
-# WEEK 08 
+# WEEK 08 (Homework 6 )   
 **Part I. Customize your Pong game**  
 Think about using different colors, shapes, forms, images, etc.      
 _Size: 1280x720 pixels_  
@@ -50,3 +50,12 @@ _Size: 1280x720 pixels_
 Use at least 2 loaded Images or Shapes. Use rotation + a sinusoidal function.      
 _Size: 1280x720 pixels or 720x720 pixels_   
 ![DANETARAS/8-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_DANETARAS/8-2.png)![FUESLER/8-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_FUESLER/8-2.png)![GUARACO/8-2a](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_GUARACO/8-2a.png)![GUARACO/8-2b](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_GUARACO/8-2b.png)![GUARACO/8-2c](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_GUARACO/8-2c.png)![LEE/8-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_LEE/8-2.png)![TERRY/8-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TERRY/8-2.png)![TRAN/8-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TRAN/8-2.png)![WANG/8-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WANG/8-2.png)![WEDIN/8-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WEDIN/8-2.png)![YANG/8-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YANG/8-2.png)![YUAN/8-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YUAN/8-2.png)  
+
+# Week 12 (Homework 10)  
+**Develop a first draft of your final project in Processing. This could be 1 component of it in more detail, or a rougher overview of the whole project. Submit any notes, diagrams, inspiration references that are relevent to your final project in a folder inside the Processing script.**
+_Size: 1280x720 pixels or 720x720 pixels_
+![DANETARAS/10-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_DANETARAS/10-1.png)![FUESLER/10-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_FUESLER/10-1.png)![GUARACO/10-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_GUARACO/10-1.png)![LEE/10-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_LEE/10-1.png)![TERRY/10-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TERRY/10-1.png)![TRAN/10-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TRAN/10-1.png)![WANG/10-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WANG/10-1.png)![WEDIN/10-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WEDIN/10-1.png)![YANG/10-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YANG/10-1.png)![YUAN/10-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YUAN/10-1.png) 
+
+**Install a library of your choice, use it to develop a processing sketch, that is sufficiently different from the original example, ideally this would serve your final project. Cite the code correctly.**
+_Size: 1280x720 pixels or 720x720 pixels_
+![DANETARAS/10-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_DANETARAS/10-2.png)![FUESLER/10-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_FUESLER/10-2.png)![GUARACO/10-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_GUARACO/10-2.png)![LEE/10-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_LEE/10-2.png)![TERRY/10-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TERRY/10-2.png)![TRAN/10-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TRAN/10-2.png)![WANG/10-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WANG/10-2.png)![WEDIN/10-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WEDIN/10-2.png)![YANG/10-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YANG/10-2.png)![YUAN/10-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YUAN/10-2.png)
