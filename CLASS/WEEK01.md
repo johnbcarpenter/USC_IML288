@@ -8,16 +8,17 @@ We’ll gain experience through a series of coding exercises, and draw inspirati
 The course will be taught as a workshop with introductions of topics by the professor and TA, followed by individual conversations and time to work in class. Special thanks to DJ Johnson, whose syllabus and teaching of this class helped shape this class.
 
 ## syllabus
-[full syllabus](https://github.com/johnbcarpenter/USC_IML288/tree/master/PDF/IML288_syllabus_FALL2018.pdf)
+[full syllabus](https://github.com/johnbcarpenter/USC_IML288/tree/master/PDF/IML288_syllabus_FALL2019.pdf)
 
 ## teacher intros
-Instructor: [John Carpenter](http://johnbcarpenter.com)  
-TA: [Catherine Griffiths](http://isohale.com)  
+Instructor: [John Carpenter](http://johnbcarpenter.com) // http://instagram.com/johnbcarpenter(http://instagram.com/johnbcarpenter) // johncarp@usc.edu
 
 ## student intros
 
 ## creative coding intro
 [a brief list of creative coding studios and artists (WIP)](https://github.com/johnbcarpenter/USC_IML288/tree/master/LINKS.md) 
+[o_O (OooShiny!) Equity & Inclusion Resource List: Women, People of Color, LGBT & non-binary artists working in this field
+](https://docs.google.com/document/d/1JH52kQ0aMqtg4TvjWd1ezGRBsgzvBk0-tet4S7pC0Gs/edit)
 
 ## sol lewitt + casey reas in-class exercise
 - Take a look at the [wall drawings of Sol LeWitt](https://massmoca.org/sol-lewitt/) and generate your own set of rules (or choose one you like).  
