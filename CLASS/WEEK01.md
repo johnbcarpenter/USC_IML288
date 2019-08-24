@@ -1,3 +1,6 @@
+![](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/RED/FLOWER_2019-07-10-10.12.01PM.png)
+https://www.instagram.com/p/Bz0nnSfHvEh/
+
 # WEEK 01
 _Critical Thinking and Procedural Media_ is an introductory computer programming course that explores the use of code to generate digital art and design works.  If you're less familiar with programming (or totally new to it), don't worry — this class starts with the basics and builds up to more complex ideas (like object-oriented programming). If you've programmed before, great, we'll take what you know and look at the potentials of computational media to define new aesthetics, modes of representation and structures of communication. 
 
