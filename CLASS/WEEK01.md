@@ -11,7 +11,7 @@ The course will be taught as a workshop with introductions of topics by the prof
 [full syllabus](https://github.com/johnbcarpenter/USC_IML288/tree/master/PDF/IML288_syllabus_FALL2019.pdf)
 
 ## teacher intros
-Instructor: [John Carpenter](http://johnbcarpenter.com) // http://instagram.com/johnbcarpenter(http://instagram.com/johnbcarpenter) // johncarp@usc.edu
+Instructor: [John Carpenter](http://johnbcarpenter.com) // [instagram.com](http://instagram.com/johnbcarpenter) // johncarp (at) usc (dot) edu
 
 ## student intros
 
