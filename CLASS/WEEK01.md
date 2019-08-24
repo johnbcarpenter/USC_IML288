@@ -1,4 +1,4 @@
-![](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/RED/FLOWER_2019-07-10-10.12.01PM.png)
+![](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/REF/FLOWER_2019-07-10-10.12.01PM.png)  
 https://www.instagram.com/p/Bz0nnSfHvEh/
 
 # WEEK 01
