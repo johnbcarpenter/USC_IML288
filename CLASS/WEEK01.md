@@ -14,10 +14,10 @@ The course will be taught as a workshop with introductions of topics by the prof
 ## syllabus
 [full syllabus](https://github.com/johnbcarpenter/USC_IML288/tree/master/PDF/IML288_syllabus_FALL2019.pdf)
 
+## teacher intro
 ![](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/REF/FLOWER_2019-07-10-10.12.01PM.png)  
 [generative form + textures flower study (2019)](https://www.instagram.com/p/Bz0nnSfHvEh/)  
 
-## teacher intros
 Instructor: [John Carpenter](http://johnbcarpenter.com) // [instagram](http://instagram.com/johnbcarpenter) // johncarp (at) usc (dot) edu
 
 ## student intros
