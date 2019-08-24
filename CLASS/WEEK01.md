@@ -30,6 +30,8 @@ Instructor: [John Carpenter](http://johnbcarpenter.com) // [instagram](http://in
 - View/discuss Casey Reas' [“Process Compendium (Introduction),” 2004-2010](https://vimeo.com/39078622).  
 
 ## processing intro
+![](https://images-na.ssl-images-amazon.com/images/I/41SGDjEJIgL._SX322_BO1,204,203,200_.jpg)
+
 _Make: Getting Started with Processing_ by Ben Fry and Casey Reas (2nd Edition, 2015) 
 [Amazon (~$17)](http://www.amazon.com/dp/1457187086)
 
