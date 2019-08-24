@@ -37,7 +37,7 @@ _Make: Getting Started with Processing_ by Ben Fry and Casey Reas (2nd Edition, 
 
 Alternatively, the book is available digitally on [O'Reilly Safari](http://shop.oreilly.com/product/0636920031406.do)
 
-[download processing + run your first application](https://processing.org/tutorials/gettingstarted/)
+processing.org: [download processing + run your first application](https://processing.org/tutorials/gettingstarted/)
 
 As students, you won't be required to purchase Processing (if you start to use it professionally, I’d encourage you to donate time or $ to the Processing Foundation). Processing runs on Windows and Linux; however, I’ll be teaching the workshops on a Mac (so if you have access to a Mac laptop, it will probably make it easier to follow along in class).
 
