@@ -20,7 +20,10 @@ Instructor: [John Carpenter](http://johnbcarpenter.com) // [instagram](http://in
 - [o_O (OooShiny!) Equity & Inclusion Resource List: Women, People of Color, LGBT & non-binary artists working in this field
 ](https://docs.google.com/document/d/1JH52kQ0aMqtg4TvjWd1ezGRBsgzvBk0-tet4S7pC0Gs/edit)
 
-## sol lewitt + casey reas in-class exercise
+## sol lewitt + casey reas in-class exercise  
+
+![](https://massmoca.org/wp-content/uploads/2015/12/16-1.jpg)
+
 - Take a look at the [wall drawings of Sol LeWitt](https://massmoca.org/sol-lewitt/) and generate your own set of rules (or choose one you like).  
 - Complete a drawing based on these rules.  
 - Translate the set of rules into processing code (instructor will do one or two).
