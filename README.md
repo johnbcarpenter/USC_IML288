@@ -2,7 +2,8 @@
 _Critical Thinking and Procedural Media_ is an introductory computer programming course that explores the use of code to generate digital art and design works.  Due to its accessibility and active community of developers, we’ll use [Processing](http://processing.org/download/) to shed light on the theoretical underpinnings of computational media, and we'll be working with this repository to store and share the code that we work with in class. The starting point for many of these examples is based on fantastic work by the [processing community](https://discourse.processing.org/) -- please see comments in the code for the appropriate credits.
 
 **Instructor: [John Carpenter](http://johnbcarpenter.com) // johncarp (at) usc (dot) edu**  
-office hours: monday 3-4pm, 7pm+ _by appointment_  
+office hours: monday 3-4pm, 7pm+ _by appointment_   
+**SA: [Lee Thibodeau](http://leethibodeau.com) // leethibo (at) usc (dot) edu**   
 
 ## schedule
 **[Week 01. 08/26/2019 -- intros: teacher, TA + students, creative coding + processing](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK01.md)**  
