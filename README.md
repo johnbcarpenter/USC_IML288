@@ -51,16 +51,16 @@ reading: 10/Arrays
 **[Week 12. 11/11/2019 -- extend: libraries, final project discussion](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK12.md)**  
 **homework 09 due: arrays**    
   
-**[Week 13. 11/18/2019 -- revisiting arrays](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK13.md)**   
+**[Week 13. 11/18/2019 -- revisiting arrays, extend](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK13.md)**   
 **homework 10 due: final project 1st draft + libraries exercise**   
   
 **[Week 14. 11/25/2019 -- extend: shiffman nature of code, (reynolds) flocking, reas](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK14.md)**  
+**homework 11 due: extension exercise**  
 _note: 11/27-29/2019 thanksgiving recess_  
   
 **Week 15. 12/02/2019 -- working session**   
-**homework 11 due: extension exercise**  
 
-**Week 16. 12/09/2019 -- Study Days: 12/07 - 12/10/2019 (no class)**   
+*Week 16. 12/09/2019 -- Study Days: 12/07 - 12/10/2019 (no class)*   
   
 **FINAL EXHIBIT. 12/16/2018 4:30-6:30 p.m. in-class exhibition**  
 [_NOTES ON THE FINAL_](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/FINAL_NOTES.md)  
