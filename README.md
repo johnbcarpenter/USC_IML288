@@ -7,7 +7,7 @@ office hours: monday 3-4pm, 7pm+ _by appointment_
 
 ## schedule
 **[Week 01. 08/26/2019 -- intros: teacher, TA + students, creative coding + processing](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK01.md)**  
-class activity: sol lewitt  
+class discussion +activity: casey reas, sol lewitt  
 reading/viewing: 1/Hello, 2/Starting to Code, https://processing.org/tutorials/gettingstarted/  
   
 *Week 02. 09/02/2019 labor day (no class)* 
