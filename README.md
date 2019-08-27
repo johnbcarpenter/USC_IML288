@@ -59,7 +59,7 @@ reading: 10/Arrays
 **homework 11 due: extension exercise**  
 _note: 11/27-29/2019 thanksgiving recess_  
   
-*Week 15. 12/02/2019 -- working session*   
+Week 15. 12/02/2019 -- working session   
 
 *Week 16. 12/09/2019 -- Study Days: 12/07 - 12/10/2019 (no class)*   
   
