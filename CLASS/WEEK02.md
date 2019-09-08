@@ -1,3 +1,7 @@
+
+![](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/REF/ANNI_ALBERS_YALE2018.jpg)  
+[_Anni Albers (2018) by Yale University Press (2018)](https://yalebooks.yale.edu/book/9780300237252/anni-albers)
+
 # WEEK 02
 
 ## _1/Hello, 2/Starting to Code, 3/Draw_ lecture
