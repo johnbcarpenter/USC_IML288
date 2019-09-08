@@ -12,7 +12,7 @@ reading/viewing: 1/Hello, 2/Starting to Code, https://processing.org/tutorials/g
   
 *Week 02. 09/02/2019 labor day (no class)* 
 
-**[Week 03. 09/09/2019 -- form + color // josef albers, anne truitt, ellsworth kelly](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK02.md)**  
+**[Week 03. 09/09/2019 -- form + color // anni + josef albers, anne truitt, ellsworth kelly](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK02.md)**  
 reading: chapter 3/Draw   
     
 **[Week 04. 09/16/2019 -- working with variables // takashi murakami](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK04.md)**  
