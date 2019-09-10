@@ -21,6 +21,7 @@ _color + form / abstract minimalism inspiration_
 **Part I. Recreate a Form and Color / Abstract Minimalist Artwork with Code**  
 and think about draw order, color, form, shapes, fill, stroke.    
 _Size: appropriate to the work and fits within 1280x720 pixels (e.g. a square work would be 720x720 pixels)_  
+// please include a comment in your code with a link to your inspiration
 
 **Part II. Develop a Concept for Your Own Work**  
 Inspired by Part I  
