@@ -16,8 +16,8 @@ _Size: appropriate to the work and fits within 1280x720 pixels (e.g. a square wo
 **Part II. Use a for loop with Your Design to Generate a Texture**  
 _Size: appropriate to the work and fits within 1280x720 pixels_  
 
-Additional Inspiration from Instagram:
-[instagram/okazzsp](https://www.instagram.com/p/B18TmcIH0i8/)
-[instagram/manoloide](https://www.instagram.com/p/Bo4r_YqHGnv/?igshid=1nzam444gp38e/)
-[instagram/sasj_nl](https://www.instagram.com/p/Bu-yhS0nN18/?igshid=17rzs1uabpi5z/)
-[instagram/andrewjamesart](https://www.instagram.com/p/BvJwTOjnF2k/?igshid=neylob2pf3kq/)
+Additional Inspiration from Instagram:  
+[instagram/okazzsp](https://www.instagram.com/p/B18TmcIH0i8/)  
+[instagram/manoloide](https://www.instagram.com/p/Bo4r_YqHGnv/?igshid=1nzam444gp38e/)  
+[instagram/sasj_nl](https://www.instagram.com/p/Bu-yhS0nN18/?igshid=17rzs1uabpi5z/)  
+[instagram/andrewjamesart](https://www.instagram.com/p/BvJwTOjnF2k/?igshid=neylob2pf3kq/)  
