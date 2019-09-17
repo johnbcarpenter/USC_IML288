@@ -1,13 +1,33 @@
 size(1024, 768);
 
 for (int i = 0; i < 400; i++) {
-  float x = random(0,width);
-  float y = random(0,height);
-  float rad = random(50,150);
-  strokeWeight(rad*0.1);
-  fill(random(255), random(255), random(255));
+  float x = random(0, width); // x position
+  float y = random(0, height); // y position
+  float rad = random(50, 150); // face radius
+
+  // DRAW THE HEAD
+  float r = random(255); // red value
+  float g = random(200, 255); // green value
+  float b = random(0, 120); // blue value
+  fill(r, g, b);
+  noStroke();
   ellipse(x, y, rad, rad);
-  point(x-rad*0.1, y-rad*0.1);
-  point(x+rad*0.1, y-rad*0.1);
+
+  // DRAW THE EYES
+  float eye_dist = rad*0.1; // eye_dist based on face size
+  float eye_size = rad*0.2; // eye_size based on face size
+  stroke(0);
+  strokeWeight(rad*0.01); // stroke weight based on face size
+  fill(255);
+  ellipse(x-eye_dist, y-eye_dist, eye_size, eye_size); // *same position 
+  ellipse(x+eye_dist, y-eye_dist, eye_size, eye_size); // **same position 
+
+  strokeWeight(rad*0.05); // stroke weight based on face size
+  point(x-eye_dist, y-eye_dist); // *same position 
+  point(x+eye_dist, y-eye_dist); // **same position
+
+  // DRAW THE MOUTH
+  noFill();
+  strokeWeight(rad*0.03);
   arc(x, y, rad*0.6, rad*0.6, PI*0.25, PI*0.75);
 }
