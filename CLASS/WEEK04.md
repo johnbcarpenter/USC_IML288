@@ -13,7 +13,7 @@
 and think about how to use variables in your design, and the topics described in the previous lecture (form + color).  
 _Size: appropriate to the work and fits within 1280x720 pixels (e.g. a square work would be 720x720 pixels)_  
 
-**Part II. Compose an Image using at least 3 variations on Your Graphics**  
+**Part II. Compose an Image using at least 3 variations on Your Graphic**  
 _Size: appropriate to the work and fits within 1280x720 pixels_  
 
 Additional Inspiration from Instagram:  
