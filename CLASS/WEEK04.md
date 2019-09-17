@@ -9,12 +9,16 @@
 - [IN-CLASS CODE EXAMPLES](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK04)
 
 ## Homework 02 // Due 2018.09.17
-**Part I. Generate a Graphic Using variations of Shapes and Color (Inspired by Takashi Murakami)**  
+**Part I. Generate a Graphic that you can vary with Position (x,y), Size and Color**  
 and think about how to use variables in your design, and the topics described in the previous lecture (form + color).  
 _Size: appropriate to the work and fits within 1280x720 pixels (e.g. a square work would be 720x720 pixels)_  
 
-**Part II. Compose an Image using at least 3 variations on Your Graphic**  
+**Part II. Use a "for loop" to Generate a Composition with a bunch (100?) Variations of Your Graphic**  
 _Size: appropriate to the work and fits within 1280x720 pixels_  
+
+    for (int i = 0; i < 100; i++) {
+      ...
+    }
 
 Additional Inspiration from Instagram:  
 [instagram/okazzsp](https://www.instagram.com/p/B18TmcIH0i8/)  
