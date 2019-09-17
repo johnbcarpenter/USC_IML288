@@ -9,11 +9,11 @@
 - [IN-CLASS CODE EXAMPLES](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK04)
 
 ## Homework 02 // Due 2018.09.17
-**Part I. Generate a Graphic Inspired by Takashi Murakami**  
+**Part I. Generate a Graphic Using variations of Shapes and Color (Inspired by Takashi Murakami)**  
 and think about how to use variables in your design, and the topics described in the previous lecture (form + color).  
 _Size: appropriate to the work and fits within 1280x720 pixels (e.g. a square work would be 720x720 pixels)_  
 
-**Part II. Use a for loop with Your Design to Generate a Texture**  
+**Part II. Compose an Image using at least 3 variations on Your Graphics**  
 _Size: appropriate to the work and fits within 1280x720 pixels_  
 
 Additional Inspiration from Instagram:  
