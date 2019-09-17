@@ -17,7 +17,7 @@ _Size: appropriate to the work and fits within 1280x720 pixels (e.g. a square wo
 _Size: appropriate to the work and fits within 1280x720 pixels_  
 
     for (int i = 0; i < 100; i++) {
-      ...
+      // variable based code for your graphic goes here
     }
 
 Additional Inspiration from Instagram:  
