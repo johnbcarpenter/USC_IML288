@@ -7,6 +7,8 @@
 ## _4/Variables_ lecture
 - [in-class keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20180910_VARIABLES.pdf)
 - [IN-CLASS CODE EXAMPLES](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK04)
+- [code example: draw a hexagon](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK04/IN_CLASS/drawHexagon)  
+- [code example: draw sun rays](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK04/IN_CLASS/drawSunRays)  
 
 ## Homework 02 // Due 2018.09.17
 **Part I. Generate a Graphic that can have Different Positions (x,y), Sizes and Colors**  
