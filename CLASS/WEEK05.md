@@ -4,7 +4,8 @@
 [Agnes Martin, _Little Sister_ (1962) via The Guggenheim](https://www.guggenheim.org/artwork/5653)
 
 ## _4/Variables_ part II lecture
-- the perception of code/programmers (in class discussion)
+- [processing defintion: _for loop_](https://processing.org/reference/for.html)
+- [daniel shiffman _for loop_ tutorial](https://www.youtube.com/watch?v=h4ApLHe8tbk)
 - [in-class keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20180917_VARIABLESptII.pdf)
 - [in-class code examples](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK05)
 - working session
