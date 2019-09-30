@@ -1,5 +1,8 @@
 # WEEK 06 
 
+![](https://images.squarespace-cdn.com/content/v1/5cbf8f0193a632511c1c284c/1559669871160-IG5EO3L82KYIFCXDCE6E/ke17ZwdGBToddI8pDm48kGsXLeFZA_fbOWR66bVwPS8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2djuwHHdpR1xBvwFIvx3135yc7df7WoDrc-ogrbubhn6fW07ycm2Trb21kYhaLJjddA/DesignIO_ConnectedWorlds_08.jpg?format=1500w)
+[Design I/O, _Connectd Worlds_ (2015)](http://design-io.com/projects/ConnectedWorlds/)
+
 ## _5/Input_ lecture
 - [in-class keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20180924_INPUT.pdf)  
 - [in-class code examples](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK06)
@@ -14,9 +17,9 @@
 **Part I. Create a drawing tool**  
 using some of the things we discussed in class today (_mouseX, mouseY, pmouseX, pmouseY_, easing, etc)      
 _Size: 1280x720 pixels_   
-![DANETARAS/6-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_DANETARAS/6-1.png)![FUESLER/6-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_FUESLER/6-1.png)![GUARACO/6-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_GUARACO/6-1.png)![LEE/6-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_LEE/6-1.png)![TERRY/6-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TERRY/6-1.png)![TRAN/6-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TRAN/6-1.png)![WANG/6-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WANG/6-1.png)![WEDIN/6-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WEDIN/6-1.png)![YANG/6-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YANG/6-1.png)![YUAN/6-1](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YUAN/6-1.png)  
+
 **Part II. Prototype an interaction with some digital organism**  
 _Some options: have the organism follow the mouse (easing? rotate?), move the organism around with the arrow keys, change the appearance or behavior of the organism on hover_  
 _Size: 1280x720 pixels_   
-![DANETARAS/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_DANETARAS/6-2.png)![FUESLER/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_FUESLER/6-2.png)![GUARACO/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_GUARACO/6-2.png)![LEE/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_LEE/6-2.png)![TERRY/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TERRY/6-2.png)![TRAN/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_TRAN/6-2.png)![WANG/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WANG/6-2.png)![WEDIN/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_WEDIN/6-2.png)![YANG/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YANG/6-2.png)![YUAN/6-2](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/2018/_YUAN/6-2.png)  
+
 reading: _5/Input 
