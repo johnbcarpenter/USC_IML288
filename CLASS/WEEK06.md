@@ -15,7 +15,7 @@ _Connected Worlds_ (2015) is an incredible project that really pushes the bounda
   - [teamLab, Graffiti Nature at the Walker Art Museum (2017)](https://walkerart.org/press-releases/2017/virtual-ecosystems-dissolve-boundaries-betwee)  
 - working session  
 
-## Homework 04 // Due 2018.10.01
+## Homework 04 // Due 2019.10.07
 **Part I. Create a drawing tool**  
 using some of the things we discussed in class today (_mouseX, mouseY, pmouseX, pmouseY_, easing, etc)      
 _Size: 1280x720 pixels_   
