@@ -10,7 +10,7 @@
 - [in-class code examples](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK05)
 - working session
 
-## Homework 03 // Due 2018.09.24
+## Homework 03 // Due 2019.09.30
 **Part I. Reproduce one of Agnes Martin’s grid paintings/drawings**  
 use at least one for loop in your work.    
 _Size: 1280x1280 pixels_  
