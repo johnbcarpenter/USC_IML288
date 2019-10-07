@@ -10,6 +10,7 @@
   - [filter()](https://processing.org/reference/filter_.html)
 - artist references:
   - [Snowflakes in Photographs by W A Bentley (1931)](https://books.google.com/books?id=4O25SZtrMfkC)  
+  - [irregularsymmetry on instagram](https://www.instagram.com/p/BjAxHzaFijO/)
   - [Boquet of Eyes by Hannah Hoch (1930)](https://theartstack.com/artist/hannah-hoch/bouquet-eyes-1930)  
   - [Pearblossom Highway #1 by David Hockney (11th-18th April 1986)](http://www.davidhockney.co/works/photos/photographic-collages)  
   - [We are all Nature II & III by Christopher Relander (2012-13)](https://www.christofferrelander.com/projects/we-are-nature-3/)  
