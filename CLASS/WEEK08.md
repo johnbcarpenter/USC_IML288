@@ -1,6 +1,6 @@
 # WEEK 08 
 
-![](https://i.ytimg.com/vi/e4VRgY3tkh0/hqdefault.jpg)
+![](https://i.ytimg.com/vi/e4VRgY3tkh0/hqdefault.jpg)  
 [Pong (1972)](https://www.youtube.com/watch?v=it0sf4CMDeM)  
 
 ## _7/Motion_ lecture  
