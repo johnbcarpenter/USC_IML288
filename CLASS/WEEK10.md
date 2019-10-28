@@ -19,7 +19,7 @@
 - working session  
 
 ## Homework 08 // Due 2019.11.04  
-**Create a class that has graphics that animate through time, and create several instances of your class (aka objects) to generate a scene**    
+**Create a class that has interesting graphics (optionally that animate through time), and create several instances of your class (aka objects) to generate a scene (via a grid pattern, radial pattern, and/or composition)**    
     
 _Size: 1280x720 pixels or 720x720 pixels_  
     
