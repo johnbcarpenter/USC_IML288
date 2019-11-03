@@ -15,7 +15,7 @@
   - [Instagram/Manoloide](https://www.instagram.com/Manoloide)  
 - working session  
 
-## Homework 08 // Due 2019.11.11  
+## Homework 09 // Due 2019.11.11  
 **Use an array to either create a trail behind the mouse or behind several objects (the array would be within the class), and develop the visuals in an interesting way.**    
     
 _Size: 1280x720 pixels or 720x720 pixels_  
