@@ -1,7 +1,7 @@
 # WEEK 11 
 
-![](https://scontent-lax3-2.cdninstagram.com/vp/941530646713fdd10a6764b2b069853e/5E10657C/t51.2885-15/e35/s1080x1080/69130802_385592605672276_6036940169124062007_n.jpg?_nc_ht=scontent-lax3-2.cdninstagram.com&ig_cache_key=MjEyMTc5OTQyNzQ4OTIyOTU4Nw%3D%3D.2)  
-[okazzsp on instagram](https://www.instagram.com/okazzsp/?hl=en)  
+![](https://i.pinimg.com/originals/4d/29/fa/4d29fa149b7e9c17a05d6077894fe711.jpg)  
+[manoloide on instagram/reddit](https://www.instagram.com/manoloide/?hl=en)  
 
 ## _10/Arrays_ lecture  
 - [in-class keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20181029_ARRAYS.pdf)  
