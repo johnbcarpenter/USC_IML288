@@ -1,7 +1,7 @@
 # WEEK 11 
 
 ![](https://i.pinimg.com/originals/4d/29/fa/4d29fa149b7e9c17a05d6077894fe711.jpg)  
-[manoloide on instagram/reddit](https://www.instagram.com/manoloide/?hl=en)  
+[manoloide on instagram](https://www.instagram.com/manoloide/?hl=en)  
 
 ## _10/Arrays_ lecture  
 - [in-class keynote presentation](https://github.com/johnbcarpenter/USC_IML288/blob/master/PDF/20181029_ARRAYS.pdf)  
