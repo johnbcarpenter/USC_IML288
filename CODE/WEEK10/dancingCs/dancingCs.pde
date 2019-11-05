@@ -12,9 +12,9 @@ void setup(){
   
                    // x, y
   c2 = new DancingC(400,400);
-  c3 = new DancingC(400,400);
-  c4 = new DancingC(400,400);
-  c5 = new DancingC(400,400);
+  c3 = new DancingC(200,100);
+  c4 = new DancingC(300,500);
+  c5 = new DancingC(500,100);
 }
 
 void draw(){
