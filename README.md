@@ -50,7 +50,7 @@ reading: 9/Objects
 reading: 10/Arrays   
 **homework 08 due: objects**   
   
-**[Week 12. 11/11/2019 -- revisiting onjects + arrays, (reynolds) flocking](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK12.md)**  
+**[Week 12. 11/11/2019 -- revisiting objects + arrays, (reynolds) flocking](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK12.md)**  
 **homework 09 due: arrays**    
   
 **[Week 13. 11/18/2019 -- extend: libraries, final project discussion](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK13.md)**   
