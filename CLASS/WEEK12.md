@@ -1,5 +1,8 @@
 # WEEK 12 
 
+![](https://farm5.static.flickr.com/4067/4255072615_3bd9c1be41_o.jpg)  
+[robert hodgin "flocking, for nervo"](http://roberthodgin.com/portfolio/flocking-for-nervo/)  
+
 ## Classes + Arrays
 review working with classes and arrays
 
