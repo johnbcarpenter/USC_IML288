@@ -1,5 +1,8 @@
 # WEEK 13 
 
+![](https://natureofcode.com/book/imgs/chapter01/ch01_16.png)  
+[*nature of code* by daniel shiffman](https://natureofcode.com/book/)  
+
 ## extend: using libraries in Processing  
 
 - [Processing libraries!](https://processing.org/reference/libraries/)  
