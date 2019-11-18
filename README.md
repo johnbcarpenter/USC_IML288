@@ -53,10 +53,10 @@ reading: 10/Arrays
 **[Week 12. 11/11/2019 -- revisiting objects + arrays, (reynolds) flocking](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK12.md)**  
 **homework 09 due: arrays**    
   
-**[Week 13. 11/18/2019 -- extend: libraries, final project discussion](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK13.md)**   
+**[Week 13. 11/18/2019 -- extend: libraries](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK13.md)**   
 **homework 10 due: final project sketch + flocking exercise**   
   
-**[Week 14. 11/25/2019 -- extend: shiffman nature of code](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK14.md)**  
+**[Week 14. 11/25/2019 -- final project discussion, TBD](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK14.md)**  
 **homework 11 due: library exercise**  
 _note: 11/27-29/2019 thanksgiving recess_  
   
