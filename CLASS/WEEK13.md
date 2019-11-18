@@ -1,16 +1,26 @@
 # WEEK 13 
 
-## Revisiting Arrays  
+## extend: using libraries in Processing  
 
-- [in-class code examples](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK13)  
+- [Processing libraries!](https://processing.org/reference/libraries/)  
+- [P3D (Processing 3D — textures, lighting, cameras!)](https://processing.org/tutorials/p3d/)  
+- [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing) by Greg Borenstein 
+- [Sound](https://processing.org/reference/libraries/sound/index.html) / [FFT](https://processing.org/reference/libraries/sound/FFT.html)  
+- Data Visualization: [loadTable() with a .csv](https://processing.org/reference/loadTable_.html)
 - working session / individual discussions 
 
-## Homework 09 + 10 // Due 2018.11.19  
-revisit homework [09](https://github.com/johnbcarpenter/USC_IML288/blob/master/CLASS/WEEK09.md) + [10](https://github.com/johnbcarpenter/USC_IML288/blob/master/CLASS/WEEK10.md) and send in the _FINAL_ versions of them (if needed)  
+## Homework 11 // Due 2019.25.19  
+
+**Use one of the libraries we discussed in class (or some other library you've discovered) to create a project of your choice. If you're considering using a library in your final project, you can use this homework to try out some of the ideas. Please cite code and/or library use.**
+
+Size: 1280x720 pixels or 720x720 pixels
+
+**Write a sentence or two that describes the central idea for your final project.** 
+
+Size: TBD, 1280x720 pixels or 720x720 pixels
+
   
-While not an "official" homework, please turn in a WIP (work in progress) version of the work you're doing for the final project  
-  
-## FINAL PROJECT // Due 2018.12.10  
+## FINAL PROJECT // Due 2019.12.16 4:30-6:30pm (SCI L105)  
 **Use processing (code) as a medium for the generation of your own digital art and/or design work.  You can explore any idea or concept that interests you, though I'd encourage you to demonstrate a mastery of the programming techniques covered in this course.  You should feel free to explore the use of libraries and other algorithms (eg The Nature of Code), though be sure that you 1) reference them correctly, 2) understand their code base (if i ask a question about your code, i'd like you to be able to describe how you're using the library), and 3) develop the piece to the point that you've added your own unique perspective and contribution to the work (it shouldn't just look like one of the examples).**
 
 things to turn in at the final:
