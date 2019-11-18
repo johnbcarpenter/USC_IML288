@@ -9,7 +9,7 @@
 - Data Visualization: [loadTable() with a .csv](https://processing.org/reference/loadTable_.html)
 - working session / individual discussions 
 
-## Homework 11 // Due 2019.25.19  
+## Homework 11 // Due 2019.11.25  
 
 **Use one of the libraries we discussed in class (or some other library you've discovered) to create a project of your choice. If you're considering using a library in your final project, you can use this homework to try out some of the ideas. Please cite code and/or library use.**
 
