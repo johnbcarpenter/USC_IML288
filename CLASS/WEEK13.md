@@ -10,6 +10,7 @@
 - [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing) by Greg Borenstein 
 - [Sound](https://processing.org/reference/libraries/sound/index.html) / [FFT](https://processing.org/reference/libraries/sound/FFT.html)  
 - Data Visualization: [loadTable() with a .csv](https://processing.org/reference/loadTable_.html)
+- [*the nature of code*](https://natureofcode.com/book/) by daniel shiffman  
 - working session / individual discussions 
 
 ## Homework 11 // Due 2019.11.25  
