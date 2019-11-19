@@ -9,6 +9,8 @@
 - [P3D (Processing 3D — textures, lighting, cameras!)](https://processing.org/tutorials/p3d/)  
 - [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing) by Greg Borenstein 
 - [Sound](https://processing.org/reference/libraries/sound/index.html) / [FFT](https://processing.org/reference/libraries/sound/FFT.html)  
+- [images + pixels](https://processing.org/tutorials/pixels/)
+- [pixel sorting](http://datamoshing.com/2016/06/16/how-to-glitch-images-using-pixel-sorting/) / [ASDF](https://github.com/kimasendorf/ASDFPixelSort) / [pixelsorting](https://github.com/jeffThompson/PixelSorting)
 - Data Visualization: [loadTable() with a .csv](https://processing.org/reference/loadTable_.html)
 - [*the nature of code*](https://natureofcode.com/book/) by daniel shiffman  
 - working session / individual discussions 
