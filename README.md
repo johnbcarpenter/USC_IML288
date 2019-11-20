@@ -56,7 +56,7 @@ reading: 10/Arrays
 **[Week 13. 11/18/2019 -- extend: libraries](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK13.md)**   
 **homework 10 due: final project sketch + flocking exercise**   
   
-**[Week 14. 11/25/2019 -- final project discussion, TBD](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK14.md)**  
+**[Week 14. 11/25/2019 -- final project discussion @oblong (optional off-site class)](https://github.com/johnbcarpenter/USC_IML288/tree/master/CLASS/WEEK14.md)**  
 **homework 11 due: library exercise**  
 _note: 11/27-29/2019 thanksgiving recess_  
   
