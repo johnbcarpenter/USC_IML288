@@ -1,6 +1,6 @@
-# WEEK 15 
+# NOTES ON THE FINAL PROJECT 
   
-## FINAL PROJECT // Due 2018.12.10, In-Class Crit 430-630pm  
+## FINAL PROJECT // Due 2019.12.16, In-Class Crit 430-630pm  
 **Use processing (code) as a medium for the generation of your own digital art and/or design work.  You can explore any idea or concept that interests you, though I'd encourage you to demonstrate a mastery of the programming techniques covered in this course.  You should feel free to explore the use of libraries and other algorithms (eg The Nature of Code), though be sure that you 1) reference them correctly, 2) understand their code base (if i ask a question about your code, i'd like you to be able to describe how you're using the library), and 3) develop the piece to the point that you've added your own unique perspective and contribution to the work (it shouldn't just look like one of the examples).**
 
 things to turn in at the final:
