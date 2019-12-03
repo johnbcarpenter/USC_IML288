@@ -27,24 +27,36 @@ void draw() {
   // translate to the middle of the screen
   pushMatrix();
   translate(width*0.5, height*0.5);
+
+  // draw a red ellipse based on the sum of all band frequencies
+  float sum = 0; // stores the sum
   for (int i = 0; i < bands; i++) {
-    // The result of the FFT is normalized
-    // draw the line for frequency band i scaling it up by 5 to get more amplitude.
-    
-    // wrap the fft spectrum around 32 PI
+    sum += spectrum[i]; // add the current freq to the sum
+  }
+  float diameter = sum*1000.0; // amplify the sum a bunch so we can see it
+  if (diameter < 6.0) diameter = 6.0; // minimum diameter
+  fill(255, 0, 0);
+  noStroke();
+  ellipse (0, 0, diameter, diameter); // draw the ellipse
+
+
+  // draw the spirals
+  stroke(0);
+  for (int i = 0; i < bands; i++) {
+
+    // wrap the fft spectrum around in a spiral
     pushMatrix();
-    rotate(16.0*TWO_PI*i/float(bands));
+    rotate(16.0*TWO_PI*i/float(bands)); // rotate i/bands of the way around TWO_PI
+    // *16.0 wraps around the circle a lot more
     strokeWeight(1);
-    line(0,0,spectrum[i]*height*5,0);
-    
+    line(0, 0, spectrum[i]*height*10, 0);
     strokeWeight(10);
-    point(spectrum[i]*height*5,0);
+    point(spectrum[i]*height*10, 0);
     popMatrix();
-    
+
     //line( i, height*0.5, i, height*0.5 - spectrum[i]*height*5 );
     //line( i, height*0.5, i, height*0.5 + spectrum[i]*height*5 );
-    
-    
   }
+
   popMatrix();
 }
