@@ -57,6 +57,14 @@ void draw() {
     //line( i, height*0.5, i, height*0.5 - spectrum[i]*height*5 );
     //line( i, height*0.5, i, height*0.5 + spectrum[i]*height*5 );
   }
-
   popMatrix();
+
+  // draw a typical sound spectrum "bar" chart
+  float center_y = height*0.8;
+  float amplify_line = height*40.0;
+  strokeWeight(1);
+  for (int i = 0; i < bands; i++) {
+    line( i, center_y, i, center_y - spectrum[i]*amplify_line );
+    line( i, center_y, i, center_y + spectrum[i]*amplify_line );
+  }
 }
