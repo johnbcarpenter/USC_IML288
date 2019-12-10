@@ -1,5 +1,6 @@
 void setup(){
   size(720,720, P3D);
+  sphereDetail(10);
 }
 
 void draw(){
