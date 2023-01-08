@@ -20,9 +20,9 @@ Instructor: [John Carpenter](http://johnbcarpenter.com) // [instagram](http://in
 ## student intros
 
 ## creative coding intro
-- [a brief list of creative coding studios and artists (WIP)](https://github.com/johnbcarpenter/USC_IML288/tree/master/LINKS.md) 
 - [o_O (OooShiny!) Equity & Inclusion Resource List: Women, People of Color, LGBT & non-binary artists working in this field
 ](https://docs.google.com/document/d/1JH52kQ0aMqtg4TvjWd1ezGRBsgzvBk0-tet4S7pC0Gs/edit)
+- [a brief list of creative coding studios and artists that are inspirations / references for me (WIP)](https://github.com/johnbcarpenter/USC_IML288/tree/master/LINKS.md) 
 
 ## sol lewitt + casey reas in-class exercise  
 
