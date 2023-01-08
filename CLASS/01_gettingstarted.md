@@ -2,17 +2,14 @@
 [_A Mathematical Theory of Communication_ (2018) by casey reas](http://reas.com/mathematical_theory_p/)
 
 
-# WEEK 01
+# Getting Started...
 _Critical Thinking and Procedural Media_ is an introductory computer programming course that explores the use of code to generate digital art and design works.  If you're less familiar with programming (or totally new to it), don't worry — this class starts with the basics and builds up to more complex ideas (like object-oriented programming). If you've programmed before, great, we'll take what you know and look at the potentials of computational media to define new aesthetics, modes of representation and structures of communication. 
 
 This course is focused on becoming procedurally literate (being able to think like a creative coder), and is less concerned about learning a specific programming language. That said, due to its accessibility and active community of developers, we’ll use Processing to shed light on the theoretical underpinnings of computational media. Participants will gain proficiency with the Processing IDE and will discover wide-ranging possibilities for its expressive application. 
 
 We’ll gain experience through a series of coding exercises, and draw inspiration from a variety of artistic fields — from drawing, to painting, to sculpture, to gaming, to interactive installations.  By the end of the course, I’m hoping you’ll think of programming as another expressive medium for your art and design practice.
 
-The course will be taught as a workshop with introductions of topics by the professor and TA, followed by individual conversations and time to work in class. Special thanks to DJ Johnson, whose syllabus and teaching of this class helped shape this class.
-
-## syllabus
-[full syllabus](https://github.com/johnbcarpenter/USC_IML288/tree/master/PDF/IML288_syllabus_FALL2019.pdf)
+The course will be taught as a workshop with introductions of topics by the professor and TA, followed by individual conversations and time to work in class. 
 
 ## teacher intro
 ![](https://github.com/johnbcarpenter/USC_IML288_IMAGES/blob/master/REF/FLOWER_2019-07-10-10.12.01PM.png)  
@@ -40,9 +37,8 @@ Instructor: [John Carpenter](http://johnbcarpenter.com) // [instagram](http://in
 ![](https://images-na.ssl-images-amazon.com/images/I/41SGDjEJIgL._SX322_BO1,204,203,200_.jpg)
 
 _Make: Getting Started with Processing_ by Ben Fry and Casey Reas (2nd Edition, 2015) 
-[Amazon (~$17)](http://www.amazon.com/dp/1457187086)
-
-Alternatively, the book is available digitally on [O'Reilly Safari](http://shop.oreilly.com/product/0636920031406.do)
+[Digital](https://www.ebooks.com/en-us/book/detail/2208258/)
+[Amazon (print)](http://www.amazon.com/dp/1457187086)
 
 processing.org: [download processing + run your first application](https://processing.org/tutorials/gettingstarted/)
 
@@ -55,5 +51,4 @@ Daniel Shiffman's Video Tutorials on [YouTube](https://www.youtube.com/watch?v=2
 The [Processing Forum](https://discourse.processing.org/) is also a great place to post questions, and/or to take a look at issues other people have dealt with.
 
 ## HOMEWORK
-
 read _1/Hello_ and  _2/Starting to Code_
