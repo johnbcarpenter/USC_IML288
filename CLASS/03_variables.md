@@ -12,7 +12,7 @@ The aims of this lecture are to 1) learn how to create graphics that can easily 
 - [code example: draw a hexagon](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK04/IN_CLASS/drawHexagon)  
 - [code example: draw sun rays](https://github.com/johnbcarpenter/USC_IML288/tree/master/CODE/WEEK04/IN_CLASS/drawSunRays)  
 
-## Homework 02 // Due 2018.09.17
+## Homework 
 **Part I. Generate a Graphic that can have Different Positions (x,y), Sizes and Colors**  
 Try to move around your graphic and make it different sizes and colors, and figure out what variables you need to make that possible. Keep in mind the topics described in the previous _form + color_ lecture.  
 _Size: appropriate to the work and fits within 1280x720 pixels (e.g. a square work would be 720x720 pixels)_  
